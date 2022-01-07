@@ -78,7 +78,7 @@
 
 </details>
 
-[![Statistics](https://github-readme-stats.vercel.app/api?username=brakys&theme=radical)](https://github.com/brakys)
+[![Statistics](https://github-readme-stats.vercel.app/api?username=brakys&theme=radical&title_color=#ffffff)](https://github.com/brakys)
 
 [website]: https://www.mooonys.co
 [course]: https://dev.to/brakys/lack-of-motivation-p59
