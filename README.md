@@ -11,7 +11,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games and play the piano
 
-### Connect with me:
+### My social-media and featured sites for you're information.
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -21,7 +21,7 @@
 
 <br />
 
-### Languages and Tools:
+### My known languages and tools for you're use.
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
@@ -45,40 +45,17 @@
 
 ---
 
-### 📺 My Top Youtube Posts To Watch
-
-<!-- YOUTUBE:START -->
-- [STACKr News Weekly: Quit Google, GoLang Course, Rewind 2021: Coding Edition](https://www.youtube.com/watch?v=KBSRZh8HQ4M)
-- [Visual Studio Code 2022 | Web Dev Setup | Top Extensions, Themes, Settings, Tips &amp; Tricks](https://www.youtube.com/watch?v=fJEbVCrEMSE)
-- [STACKr News Weekly: 2022 Web Dev Roadmap 🛣, Sabotaging your career? 🐱‍👤, It&#39;s ok to take a break 🏖](https://www.youtube.com/watch?v=zrEKyscb15A)
-- [NEW!! Web Developer Roadmap 2022 | Ultimate Guide To Starting A Career In Web Development](https://www.youtube.com/watch?v=7uJGjbkp0-U)
-- [STACKr News Weekly: Inspiring Dev Stories 🚀, Create 10k NFT Collection without Web3 Knowledge! 🤯](https://www.youtube.com/watch?v=z2vpcQjpqno)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
-### 📕 Latest Blog Posts
+### 📕 My featured posts and uploads for you're viewing pleasure.
 
 <!-- BLOG-POST-LIST:START -->
 - [Lack of Motivation](https://dev.to/brakys/lack-of-motivation-p59)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://dev.to/brakys)
+If you are interested in viewing anymore of my posts, visit my [dev.to page.](https://dev.to/brakys)
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
-[![Statistics](https://github-readme-stats.vercel.app/api?username=brakys&theme=github_dark&hide_title=true)](https://github.com/brakys)
+[![⚡](https://github-readme-stats.vercel.app/api?username=brakys&theme=github_dark&hide_title=true)](https://github.com/brakys)
 
 [website]: https://www.mooonys.co
 [course]: https://dev.to/brakys/lack-of-motivation-p59
