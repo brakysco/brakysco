@@ -1,7 +1,7 @@
 ### Hi there, I'm Reece - aka [Brakys][website] 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fmooonys.co)](https://www.mooonys.co)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbrakys&screen_name=brakys)
+[![Website](https://img.shields.io/website?label=brakys.co&style=for-the-badge&url=https%3A%2F%2Fbrakys.co)](https://brakys.co)
+[![Twitter Follow](https://img.shields.io/twitter/follow/brakys?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbrakys&screen_name=brakys)
 
 ## I'm a Student, Son, Developer, and Teacher!!
 
@@ -57,7 +57,7 @@ If you are interested in viewing anymore of my posts, visit my [dev.to page.](ht
 
 [![⚡](https://github-readme-stats.vercel.app/api?username=brakys&theme=github_dark&hide_title=true)](https://github.com/brakys)
 
-[website]: https://www.mooonys.co
+[website]: https://brakys.co
 [course]: https://dev.to/brakys/lack-of-motivation-p59
 [twitter]: https://twitter.com/brakys
 [youtube]: https://youtube.com/brakys
