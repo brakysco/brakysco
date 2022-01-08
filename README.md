@@ -48,18 +48,18 @@
 ### 📕 My featured posts and uploads for you're viewing pleasure.
 
 <!-- BLOG-POST-LIST:START -->
-- [Lack of Motivation](https://dev.to/brakys/lack-of-motivation-p59)
+- [Lack of Motivation](https://dev.to/brakysco/lack-of-motivation-p59)
 <!-- BLOG-POST-LIST:END -->
 
-If you are interested in viewing anymore of my posts, visit my [dev.to page.](https://dev.to/brakys)
+If you are interested in viewing anymore of my posts, visit my [dev.to page.](https://dev.to/brakysco)
 
 ---
 
-[![⚡](https://github-readme-stats.vercel.app/api?username=brakys&theme=github_dark&hide_title=true)](https://github.com/brakys)
+[![⚡](https://github-readme-stats.vercel.app/api?username=brakysco&theme=github_dark&hide_title=true)](https://github.com/brakysco)
 
 [website]: https://brakys.co
-[course]: https://dev.to/brakys/lack-of-motivation-p59
-[twitter]: https://twitter.com/brakys
+[course]: https://dev.to/brakysco/lack-of-motivation-p59
+[twitter]: https://twitter.com/brakysco
 [youtube]: https://youtube.com/brakys
 [instagram]: https://instagram.com/brakys
 [linkedin]: https://linkedin.com/in/brakys
