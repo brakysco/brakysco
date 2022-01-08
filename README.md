@@ -1,7 +1,7 @@
 ### Hi there, I'm Reece - aka [Brakys][website] 👋 
 
 [![Website](https://img.shields.io/website?label=brakys.co&style=for-the-badge&url=https%3A%2F%2Fbrakys.co)](https://brakys.co)
-[![Twitter Follow](https://img.shields.io/twitter/follow/brakysco?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbrakysco&screen_name=brakys)
+[![Twitter Follow](https://img.shields.io/twitter/follow/brakysco?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbrakysco&screen_name=brakysco)
 
 ## I'm a Student, Son, Developer, and Teacher!!
 
